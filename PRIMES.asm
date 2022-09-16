@@ -1,4 +1,4 @@
-; The number will be in the rax in _start before calling the primes test sub-rotine
+; The number will be in the rax in _start before calling the primes test sub-routine
 
 section .rodata
 n_prime: db 'O NUMERO NAO EH PRIMO!',0xa,0
